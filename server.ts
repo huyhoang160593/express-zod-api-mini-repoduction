@@ -56,7 +56,7 @@ export const defaultEndpointFactory = new EndpointsFactory(
         schema: z.object({ status: z.literal("Bad Request") }),
       },
       {
-        statusCodes: [401],
+        statusCode: 401,
         schema: z.object({ status: z.literal("Unauthorizie") }),
       }
     ],

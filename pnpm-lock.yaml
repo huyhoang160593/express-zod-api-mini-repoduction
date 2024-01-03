@@ -12,8 +12,8 @@ dependencies:
     specifier: ^4.18.2
     version: 4.18.2
   express-zod-api:
-    specifier: 16.2.0-beta1
-    version: 16.2.0-beta1(@types/express@4.17.21)(@types/http-errors@2.0.4)(@types/node@20.10.3)(express@4.18.2)(http-errors@2.0.0)(typescript@5.3.3)(winston@3.11.0)(zod@3.22.4)
+    specifier: 16.2.0-beta2
+    version: 16.2.0-beta2(@types/express@4.17.21)(@types/http-errors@2.0.4)(@types/node@20.10.3)(express@4.18.2)(http-errors@2.0.0)(typescript@5.3.3)(winston@3.11.0)(zod@3.22.4)
   http-errors:
     specifier: ^2.0.0
     version: 2.0.0
@@ -1529,8 +1529,8 @@ packages:
     engines: {node: '>= 0.6'}
     dev: false
 
-  /express-zod-api@16.2.0-beta1(@types/express@4.17.21)(@types/http-errors@2.0.4)(@types/node@20.10.3)(express@4.18.2)(http-errors@2.0.0)(typescript@5.3.3)(winston@3.11.0)(zod@3.22.4):
-    resolution: {integrity: sha512-b5mb5nCXogwnjL/kX6SxHDgj27L/zVq7BQWRrl8ugPGHt9R3hrqfSjTB1PBt7GUBOgddt82XvDC/SPO7ddpMFA==}
+  /express-zod-api@16.2.0-beta2(@types/express@4.17.21)(@types/http-errors@2.0.4)(@types/node@20.10.3)(express@4.18.2)(http-errors@2.0.0)(typescript@5.3.3)(winston@3.11.0)(zod@3.22.4):
+    resolution: {integrity: sha512-7WD35EkudFb7Z6898cq50gi3z+FV1XV0hZ7+fj+HwXRBRMrFjDSEA8SNlS5wS2EKoejPHII0RSW+yQ525KeW+w==}
     engines: {node: ^18.0.0 || ^20.0.0}
     peerDependencies:
       '@types/compression': ^1.7.5

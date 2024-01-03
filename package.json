@@ -13,7 +13,7 @@
   "dependencies": {
     "@scalar/express-api-reference": "^0.2.9",
     "express": "^4.18.2",
-    "express-zod-api": "16.2.0-beta1",
+    "express-zod-api": "16.2.0-beta2",
     "http-errors": "^2.0.0",
     "tsx": "^4.6.2",
     "typescript": "^5.3.3",
